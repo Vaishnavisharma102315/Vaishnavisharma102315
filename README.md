@@ -3,10 +3,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+%7C+AI%2FML+Enthusiast;Building+Ideas+with+Code+%F0%9F%9A%80;Learning+DSA+%7C+Machine+Learning+%7C+Software+Development;Turning+Problems+into+Intelligent+Solutions+%F0%9F%A4%96" alt="Typing SVG" />
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github&color=181717" />
+  <a href="https://github.com/Vaishnavisharma102315">
+    <img src="https://img.shields.io/github/followers/Vaishnavisharma102315?label=Followers&style=for-the-badge&logo=github&color=181717" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Vaishnavisharma102315&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -21,12 +21,14 @@ class Vaishnavi:
         self.degree = "B.Tech CSE"
         self.focus = ["Artificial Intelligence", "Machine Learning"]
         self.languages = ["Python", "Java", "C++", "C"]
+
         self.interests = [
             "AI/ML",
             "Data Structures & Algorithms",
             "Data Science",
             "Software Development"
         ]
+
         self.currently_learning = [
             "Machine Learning",
             "DSA",
@@ -46,7 +48,7 @@ class Vaishnavi:
 
 I'm passionate about using technology to solve real-world problems through **Artificial Intelligence and Machine Learning**.
 
-My current focus is on building strong foundations in:
+### 🔍 Current Focus
 
 * 🧠 Machine Learning
 * 📊 Data Analysis & Visualization
@@ -60,7 +62,7 @@ My current focus is on building strong foundations in:
 
 # 🛠️ Tech Stack
 
-### 💻 Programming
+### 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
@@ -69,7 +71,7 @@ My current focus is on building strong foundations in:
 ### 🤖 AI / ML & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
 <p>
@@ -79,7 +81,7 @@ My current focus is on building strong foundations in:
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql" />
@@ -105,7 +107,7 @@ An intelligent system that analyzes academic indicators to identify students who
 * Assignments
 * Study Hours
 
-**Focus:** Predictive analytics + student intervention
+**Focus:** Predictive Analytics + Student Intervention
 
 </td>
 
@@ -117,7 +119,8 @@ A Machine Learning project designed to analyze student academic data and predict
 
 **Tech Stack**
 
-`Python` `Pandas` `NumPy` `Matplotlib` `Scikit-Learn`
+`Python` `Pandas` `NumPy`
+`Matplotlib` `Scikit-Learn`
 
 **Model:** Linear Regression
 
@@ -141,9 +144,10 @@ A hardware + software prototype that recognizes hand gestures using flex sensors
 
 ### 💡 More Projects Coming
 
-I'm continuously building and experimenting with new ideas in:
+Currently experimenting with:
 
-`AI` `ML` `Data Science` `DSA` `Software Development`
+`AI` `ML` `Data Science`
+`DSA` `Software Development`
 
 🚀 Stay tuned!
 
@@ -156,8 +160,9 @@ I'm continuously building and experimenting with new ideas in:
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vaishnavisharma102315&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavisharma102315&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -165,15 +170,15 @@ I'm continuously building and experimenting with new ideas in:
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Vaishnavisharma102315&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🐍 My Contribution Journey
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Vaishnavisharma102315/Vaishnavisharma102315/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
@@ -181,46 +186,50 @@ I'm continuously building and experimenting with new ideas in:
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavisharma102315&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 # 🎯 2026 Goals
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                  2026 ROADMAP 🚀                    │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  ✓ Strengthen Programming Fundamentals             │
-│  ✓ Improve DSA & Problem Solving                   │
-│  → Build Advanced ML Projects                      │
-│  → Learn Deep Learning                             │
-│  → Solve 300+ Coding Problems                      │
-│  → Contribute to Open Source                       │
-│  → Build Production-Level Projects                 │
-│  → Prepare for AI/ML & Software Internships        │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+| Goal                               | Status         |
+| ---------------------------------- | -------------- |
+| 📚 Strengthen DSA                  | 🔄 In Progress |
+| 💻 Improve Programming             | 🔄 In Progress |
+| 🤖 Build ML Projects               | 🔄 In Progress |
+| 🧠 Learn Deep Learning             | 🔄 In Progress |
+| 🧩 Solve 300+ Coding Problems      | 🎯 Goal        |
+| 🌐 Contribute to Open Source       | 🎯 Goal        |
+| 🚀 Build Production-Level Projects | 🎯 Goal        |
+| 💼 Prepare for AI/ML Internship    | 🎯 Goal        |
 
 ---
 
 # 🧩 My Learning Philosophy
 
 ```text
-        LEARN
-          ↓
-       PRACTICE
-          ↓
-        BUILD
-          ↓
-       DEBUG
-          ↓
-       IMPROVE
-          ↓
-        REPEAT 🔁
+              ┌──────────┐
+              │  LEARN   │
+              └────┬─────┘
+                   ↓
+              ┌──────────┐
+              │ PRACTICE │
+              └────┬─────┘
+                   ↓
+              ┌──────────┐
+              │  BUILD   │
+              └────┬─────┘
+                   ↓
+              ┌──────────┐
+              │  DEBUG   │
+              └────┬─────┘
+                   ↓
+              ┌──────────┐
+              │ IMPROVE  │
+              └────┬─────┘
+                   ↓
+                 🔁
 ```
 
 > 💡 **I don't just want to learn technology — I want to build with it.**
@@ -231,16 +240,16 @@ I'm continuously building and experimenting with new ideas in:
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/Vaishnavisharma102315">
+<img src="https://img.shields.io/badge/GitHub-Vaishnavisharma102315-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -249,12 +258,10 @@ I'm continuously building and experimenting with new ideas in:
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%8C%B1" />
 
-</p>
+### ⭐ Thanks for visiting my profile!
 
-<p align="center">
-  <b>💻 Code • 🤖 AI • 📊 Data • 🚀 Innovation</b>
+**💻 Code • 🤖 AI • 📊 Data • 🚀 Innovation**
+
 </p>
